@@ -14,7 +14,7 @@ st.markdown("""
 <style>
     .stTextInput > div > div > input {
         background-color: #2b2b2b;
-        color: white;
+        color: blue;
         border-radius: 10px;
         padding: 10px;
     }
@@ -22,7 +22,7 @@ st.markdown("""
         padding: 20px;
         border-radius: 15px;
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-        color: white;
+        color: blue;
         text-align: center;
         font-size: 24px;
         margin-top: 20px;
