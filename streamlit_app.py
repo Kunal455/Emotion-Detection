@@ -22,7 +22,11 @@ st.markdown("""
         padding: 20px;
         border-radius: 15px;
 <<<<<<< HEAD
+<<<<<<< HEAD
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+=======
+        background: linear-gradient(135deg, #667eea 0%, red 100%);
+>>>>>>> ed47687 (stash done)
 =======
         background: linear-gradient(135deg, #667eea 0%, red 100%);
 >>>>>>> ed47687 (stash done)
