@@ -21,12 +21,9 @@ st.markdown("""
     .result-box {
         padding: 20px;
         border-radius: 15px;
-<<<<<<< HEAD
         background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-=======
         background: linear-gradient(135deg, #667eea 0%, red 100%);
->>>>>>> ed47687 (stash done)
-        color: blue;
+        color: red;
         text-align: center;
         font-size: 24px;
         margin-top: 20px;
