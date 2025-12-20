@@ -14,7 +14,11 @@ st.markdown("""
 <style>
     .stTextInput > div > div > input {
         background-color: #2b2b2b;
+<<<<<<< HEAD
         color: blue;
+=======
+        color: yellow;
+>>>>>>> 24a6035 (feature2 added)
         border-radius: 10px;
         padding: 10px;
     }
