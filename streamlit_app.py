@@ -32,7 +32,7 @@ st.markdown("""
 >>>>>>> ed47687 (stash done)
         color: blue;
         text-align: center;
-        font-size: 24px;
+        font-size: 22px;
         margin-top: 20px;
         box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     }
