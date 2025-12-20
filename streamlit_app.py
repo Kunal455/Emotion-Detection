@@ -29,7 +29,7 @@ st.markdown("""
         box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     }
     h1 {
-        background: -webkit-linear-gradient(45deg, #00C9FF, #92FE9D);
+        background: -webkit-linear-gradient(45deg, yellow, #92FE9D);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
     }
