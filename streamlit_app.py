@@ -21,7 +21,7 @@ st.markdown("""
     .result-box {
         padding: 20px;
         border-radius: 15px;
-        background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+        background: linear-gradient(135deg, green 0%, #764ba2 100%);
         color: blue;
         text-align: center;
         font-size: 24px;
